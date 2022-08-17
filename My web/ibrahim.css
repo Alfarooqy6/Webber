@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+    background-color: blueviolet;
+font-variant: larger;
+
+}
+body{
+background-color: rgb(100, 100, 150);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+font-variant: small-caps;
+font-weight: 800;
+font-style: italic;
+/***font-display: block;***/
+
+}
+span{
+     color: red;
+    text-decoration: underline;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 900;
+text-transform: lowercase;
+}
+h4{
+    text-decoration: overline;
+    color: aqua;
+    background-color: blue;
+}
+
+
+
